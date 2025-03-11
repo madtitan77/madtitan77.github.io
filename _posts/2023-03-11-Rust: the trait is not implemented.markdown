@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Rust: the trait is not implemented for function"
+date:   2023-03-11 13:08:00 +0200
+categories: jekyll update
+---
 # Introduction to Rust for C Programmers
 
 Rust is a systems programming language that offers memory safety without a garbage collector. It is designed to be a safer alternative to C and C++, providing modern features and a strong type system. If you're coming from a C background, you'll find some familiar concepts, but there are key differences to be aware of.
