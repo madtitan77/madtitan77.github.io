@@ -1,0 +1,9 @@
+@use "minima/base";
+@use "minima/layout";
+@use "minima/normalize";
+@use "minima/syntax-highlighting";
+
+$grey-color-light: color.adjust($grey-color, $lightness: 40%) !default;
+$grey-color-dark: color.adjust($grey-color, $lightness: -20%) !default;
+
+
